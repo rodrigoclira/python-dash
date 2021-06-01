@@ -1,4 +1,4 @@
-# python-dash
+# Python Dash
 
 Example using dash from real python
 
